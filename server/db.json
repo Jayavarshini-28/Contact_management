@@ -1,0 +1,110 @@
+{
+  "contacts": [
+    {
+      "id": "TVobxeKbI",
+      "name": "Karthika",
+      "company": "YouTube",
+      "email": "karthika@gmail.com",
+      "title": "Software engineer",
+      "mobile": "8880009991",
+      "photo": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+      "groupId": "3"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Kowsika",
+      "company": "E&Y",
+      "email": "kowsika@gmail.com",
+      "title": "Software developer",
+      "mobile": "9876546787",
+      "photo": "https://w7.pngwing.com/pngs/337/809/png-transparent-computer-icons-woman-avatar-user-woman-child-face-black-hair-thumbnail.png",
+      "groupId": "2"
+    },
+    {
+      "id": "64eb",
+      "name": "Jayavarshini",
+      "photo": "https://thumbs.dreamstime.com/b/female-user-icon-long-shadow-white-background-235751029.jpg",
+      "mobile": "8903036541",
+      "email": "jayavarshinis.21cse@kongu.edu",
+      "company": "Google",
+      "title": "Software engineer",
+      "groupId": "2"
+    },
+    {
+      "id": "bdfe",
+      "name": "Malathi",
+      "photo": "https://png.pngtree.com/png-vector/20221229/ourmid/pngtree-illustration-of-a-girl-working-or-studying-using-laptop-png-image_6541971.png",
+      "mobile": "6789034567",
+      "email": "malathis.21cse@kongu.edu",
+      "company": "Amazon",
+      "title": "Freelancer",
+      "groupId": "2"
+    },
+    {
+      "id": "e904",
+      "name": "Kanisha",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/002/002/257/small_2x/beautiful-woman-avatar-character-icon-free-vector.jpg",
+      "mobile": "5678903456",
+      "email": "kanishaa.21cse@kongu.edu",
+      "company": "Netflix",
+      "title": "Entreprenur",
+      "groupId": "1"
+    },
+    {
+      "id": "9fdc",
+      "name": "Jeevasree",
+      "photo": "https://static.vecteezy.com/system/resources/previews/002/002/297/non_2x/beautiful-woman-avatar-character-icon-free-vector.jpg",
+      "mobile": "4567890267",
+      "email": "jeevasreeg.21cse@kongu.edu",
+      "company": "Flipkart",
+      "title": "HR",
+      "groupId": "2"
+    },
+    {
+      "id": "ebbe",
+      "name": "Kowsalya",
+      "photo": "https://cdn.icon-icons.com/icons2/1879/PNG/512/iconfinder-9-avatar-2754584_120518.png",
+      "mobile": "5678900890",
+      "email": "kowsi@gmail.com",
+      "company": "JSW",
+      "title": "civil engineer",
+      "groupId": "2"
+    },
+    {
+      "id": "dba1",
+      "name": "Kalaivani",
+      "photo": "https://w7.pngwing.com/pngs/337/809/png-transparent-computer-icons-woman-avatar-user-woman-child-face-black-hair-thumbnail.png",
+      "mobile": "2345678906",
+      "email": "kalaivani@gmail.com",
+      "company": "Accenture",
+      "title": "Data analysis",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
